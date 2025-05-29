@@ -27,6 +27,7 @@
     <ClInclude Include="..\Texture.h" />
     <ClInclude Include="..\VAO.h" />
     <ClInclude Include="..\VBO.h" />
+    <ClInclude Include="stb_image.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\..\ModelosPGG\glad.c" />
@@ -44,6 +45,8 @@
   <ItemGroup>
     <None Include="..\default.frag" />
     <None Include="..\default.vert" />
+    <None Include="skybox.frag" />
+    <None Include="skybox.vert" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
