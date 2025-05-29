@@ -1,0 +1,11 @@
+Model Information:
+* title:	Miku (chibi)
+* source:	https://sketchfab.com/3d-models/miku-chibi-ffa656f706474443904bff5fb4167a80
+* author:	mega mix (https://sketchfab.com/oscar3dmodel)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Miku (chibi)" (https://sketchfab.com/3d-models/miku-chibi-ffa656f706474443904bff5fb4167a80) by mega mix (https://sketchfab.com/oscar3dmodel) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

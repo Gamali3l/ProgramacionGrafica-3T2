@@ -1,0 +1,11 @@
+Model Information:
+* title:	東方 Project - Reimu Fumo (3D scan)
+* source:	https://sketchfab.com/3d-models/project-reimu-fumo-3d-scan-c4723331d1a2400d942c00004d59e1cc
+* author:	Renafox (https://sketchfab.com/kryik1023)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "東方 Project - Reimu Fumo (3D scan)" (https://sketchfab.com/3d-models/project-reimu-fumo-3d-scan-c4723331d1a2400d942c00004d59e1cc) by Renafox (https://sketchfab.com/kryik1023) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

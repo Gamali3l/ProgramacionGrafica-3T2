@@ -1,0 +1,11 @@
+Model Information:
+* title:	Yukiko Amagi (Persona 4)
+* source:	https://sketchfab.com/3d-models/yukiko-amagi-persona-4-f58e5e3651874d9f98c214219dbbfc05
+* author:	jonshipman (https://sketchfab.com/jonshipman)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Yukiko Amagi (Persona 4)" (https://sketchfab.com/3d-models/yukiko-amagi-persona-4-f58e5e3651874d9f98c214219dbbfc05) by jonshipman (https://sketchfab.com/jonshipman) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

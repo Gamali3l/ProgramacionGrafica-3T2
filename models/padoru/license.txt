@@ -1,0 +1,11 @@
+Model Information:
+* title:	Padoru Santa Saber Alter
+* source:	https://sketchfab.com/3d-models/padoru-santa-saber-alter-7d725ba492c0496c90368743fecf1ed5
+* author:	Kasder (https://sketchfab.com/Kasder)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Padoru Santa Saber Alter" (https://sketchfab.com/3d-models/padoru-santa-saber-alter-7d725ba492c0496c90368743fecf1ed5) by Kasder (https://sketchfab.com/Kasder) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
