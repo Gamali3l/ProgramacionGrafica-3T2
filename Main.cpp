@@ -1,4 +1,4 @@
-﻿#include "Model.h"
+#include "Model.h"
 #include "Camera.h"
 #include "ShaderClass.h"
 #include <stb/stb_image.h>
