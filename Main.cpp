@@ -440,13 +440,13 @@ int main()
 
             // Centered names
             ImGui::SetCursorPos(ImVec2((1800 - ImGui::CalcTextSize("Gamaliel Joel Gutierrez Perez----------------2023-0731U").x) / 2, 180));
-            ImGui::Text("Gamaliel Joel Gutierrez Perez----------------2023-0731U");
+            ImGui::Text("Gutierrez Perez Gamaliel Joel----------------2023-0731U");
             ImGui::SetCursorPos(ImVec2((1800 - ImGui::CalcTextSize("Daney Nohemi Gonzalez Marin------------------2023-0674U").x) / 2, 220));
-            ImGui::Text("Daney Nohemi Gonzalez Marin------------------2023-0674U");
+            ImGui::Text("Gonzalez Marin Daney Nohemi------------------2023-0674U");
             ImGui::SetCursorPos(ImVec2((1800 - ImGui::CalcTextSize("Marco Aurelio Antonio Lopez Gonzalez---------2023-0712U").x) / 2, 260));
-            ImGui::Text("Marco Aurelio Antonio Lopez Gonzalez---------2023-0712U");
+            ImGui::Text("Lopez Gonzalez Marco Aurelio Antonio---------2023-0712U");
             ImGui::SetCursorPos(ImVec2((1800 - ImGui::CalcTextSize("Joshua Moises Salgado Pastran----------------2023-0605U").x) / 2, 300));
-            ImGui::Text("Joshua Moises Salgado Pastran----------------2023-0605U");
+            ImGui::Text("Salgado Pastran Joshua Moises----------------2023-0605U");
 
             // Centered instruction
             ImGui::SetCursorPos(ImVec2((1800 - ImGui::CalcTextSize("Press ENTER to start...").x) / 2, 500));
