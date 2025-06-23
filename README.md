@@ -124,6 +124,6 @@ Program operations include:
 
 ## 📽️ Demo
 
-🎥 *Video link coming soon...*
+🎥 * https://www.youtube.com/watch?v=VCXaYqH2rkE *
 
 ---
