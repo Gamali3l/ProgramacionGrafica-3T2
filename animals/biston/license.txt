@@ -1,0 +1,11 @@
+Model Information:
+* title:	БИЗОН BISON
+* source:	https://sketchfab.com/3d-models/bison-3c1734c020cc47fa90166a15ce585430
+* author:	victory_mirosya (https://sketchfab.com/victory_mirosya)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "БИЗОН BISON" (https://sketchfab.com/3d-models/bison-3c1734c020cc47fa90166a15ce585430) by victory_mirosya (https://sketchfab.com/victory_mirosya) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

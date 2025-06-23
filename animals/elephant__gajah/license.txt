@@ -1,0 +1,11 @@
+Model Information:
+* title:	Elephant | Gajah
+* source:	https://sketchfab.com/3d-models/elephant-gajah-d53f4e537d07419caefabef2cd4bbf7b
+* author:	denys4624 (https://sketchfab.com/denys4624)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Elephant | Gajah" (https://sketchfab.com/3d-models/elephant-gajah-d53f4e537d07419caefabef2cd4bbf7b) by denys4624 (https://sketchfab.com/denys4624) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

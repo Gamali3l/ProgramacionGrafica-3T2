@@ -1,0 +1,11 @@
+Model Information:
+* title:	Capybara PS1 style
+* source:	https://sketchfab.com/3d-models/capybara-ps1-style-c5b78771af6a4099a7beb6dcbc120b07
+* author:	Kabuum (https://sketchfab.com/Kabuum)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Capybara PS1 style" (https://sketchfab.com/3d-models/capybara-ps1-style-c5b78771af6a4099a7beb6dcbc120b07) by Kabuum (https://sketchfab.com/Kabuum) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
