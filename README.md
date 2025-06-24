@@ -31,7 +31,7 @@ By exploring the zoo and approaching animals, users will hear their distinctive 
 
 ### ▶️ Run the App
 
-1. **Download the project files**  
+1. **Download the project .Zip and files**  
    Download all `.h`, `.cpp`, `.frag`, and `.vert` files and extract to your chosen location.
 
 2. **Open the solution**  
