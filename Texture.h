@@ -1,27 +1,25 @@
-#ifndef TEXTURE_CLASS_H
-#define TEXTURE_CLASS_H
+#ifndef TEXTURE_H
+#define TEXTURE_H
 
-#include<glad/glad.h>
-#include<stb/stb_image.h>
 
-#include"shaderClass.h"
+#include <glad/glad.h>
+#include <string>
 
-class Texture
-{
+class Texture {
 public:
-	GLuint ID;
-	const char* type;
-	GLuint unit;
+    GLuint ID;  // Cambiado de 'id' a 'ID' para consistencia
+    std::string type;
+    std::string path;
 
-	Texture(const char* image, const char* texType, GLuint slot);
+    // Constructor explícito
+    Texture(const std::string& path, const std::string& type = "texture_diffuse");
 
-	// Assigns a texture unit to a texture
-	void texUnit(Shader& shader, const char* uniform, GLuint unit);
-	// Binds a texture
-	void Bind();
-	// Unbinds a texture
-	void Unbind();
-	// Deletes a texture
-	void Delete();
+    // Métodos
+    void Bind(GLenum textureUnit = GL_TEXTURE0) const;
+    static void Unbind();
+    void Delete();
+
+private:
+    void GenerateTexture(unsigned char* data, int width, int height, int nrComponents);
 };
 #endif

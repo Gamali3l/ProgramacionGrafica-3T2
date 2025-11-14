@@ -1,0 +1,11 @@
+Model Information:
+* title:	Low poly mountain lion (Puma concolor)
+* source:	https://sketchfab.com/3d-models/low-poly-mountain-lion-puma-concolor-127d1e97f983440e8f9c15d19e5b868e
+* author:	Natural History Museum of Los Angeles County (https://sketchfab.com/NHMLA)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Low poly mountain lion (Puma concolor)" (https://sketchfab.com/3d-models/low-poly-mountain-lion-puma-concolor-127d1e97f983440e8f9c15d19e5b868e) by Natural History Museum of Los Angeles County (https://sketchfab.com/NHMLA) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)

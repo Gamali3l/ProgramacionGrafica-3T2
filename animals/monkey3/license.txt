@@ -1,0 +1,11 @@
+Model Information:
+* title:	JUST MONKEY BODY
+* source:	https://sketchfab.com/3d-models/just-monkey-body-353a648db4034239b131b77c5d55186f
+* author:	HumAi Club (https://sketchfab.com/2ndlr)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "JUST MONKEY BODY" (https://sketchfab.com/3d-models/just-monkey-body-353a648db4034239b131b77c5d55186f) by HumAi Club (https://sketchfab.com/2ndlr) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

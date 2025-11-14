@@ -1,0 +1,11 @@
+Model Information:
+* title:	Giraffe, Berlin Zoo (Smoothie 3D upload)
+* source:	https://sketchfab.com/3d-models/giraffe-berlin-zoo-smoothie-3d-upload-2555ca0bda09497d9caf277c1d9e228e
+* author:	Thomas Flynn (https://sketchfab.com/nebulousflynn)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Giraffe, Berlin Zoo (Smoothie 3D upload)" (https://sketchfab.com/3d-models/giraffe-berlin-zoo-smoothie-3d-upload-2555ca0bda09497d9caf277c1d9e228e) by Thomas Flynn (https://sketchfab.com/nebulousflynn) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
