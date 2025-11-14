@@ -10,14 +10,14 @@ uniform mat4 projection;
 void main()
 {
     vec3 p = normalize(aPos);
-    // proyección equirectangular:
+    // proyecciÃ³n equirectangular:
     float rawU = atan(-p.z, p.x) / (2.0 * 3.1415926) + 0.5;
     float u = fract(rawU);
     // recortamos para que quede siempre en (0,1), nunca exactamente en el borde:
     u = clamp(u, 0.001, 0.999);
 
     float v = acos(p.y) / 3.1415926;
-    // opcionalmente clampa v también:
+    // opcionalmente clampa v tambiÃ©n:
     v = clamp(v, 0.001, 0.999);
 
     TexCoord = vec2(u, v);
