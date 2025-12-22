@@ -112,7 +112,7 @@ Program operations include:
 ## 👩‍💻 Authors
 
 - 🧑‍💻 Gutierrez Perez Gamaliel Joel            https://github.com/Gamali3l
-- 👩‍💻 Gonzales Marin Daney Nohemi                https://github.com/daneygon
+- 👩‍💻 González Marin Daney Nohemi                https://github.com/daneygon
 - 🧑‍💻 Lopez Gonzalez Marco Aurelio Antonio     https://github.com/Marc0-Lop3z  
 - 🧑‍💻 Salgado Pastran Joshua Moises            https://github.com/JoshBuggeado 
 
